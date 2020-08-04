@@ -13,4 +13,4 @@
 - Nomor2.js : Membuat program menggunakan callback function untuk melanjutkan dan menampilkan semua bulan menggunakan method map. <br>
 - Nomor3.js : Membuat program menggunakan method fetch untuk menampilkan semua name (hanya name nya saja) dari REST API. <br>
 - Nomor4.js : Membuat code dari algoritma dan flowchart Deteksi Palindrom dan Reverse Word. <br>
-- Nomor5.js : Membuat Algoritma, Flowchar dan Code dari aplikasi ArkFood.
+- Nomor5.js : Membuat Algoritma, Flowchart dan Code dari aplikasi ArkFood.
